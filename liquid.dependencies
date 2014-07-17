@@ -17,4 +17,10 @@
     "target_path": "kernel/amazon/bowser-common",
     "revision": "cm-11.0"
   }
+  {
+    "remote": "tm",
+    "repository": "proprietary_vendor_amazon",
+    "target_path": "vendor/amazon",
+    "revision": "cm-11.0"
+  }
 ]
